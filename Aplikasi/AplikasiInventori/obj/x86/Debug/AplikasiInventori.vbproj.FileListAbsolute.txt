@@ -92,3 +92,17 @@ D:\Materi Perjurusan\Visual Studio Net\project\Kasir_Restaurant_VB\Aplikasi\Apli
 D:\Materi Perjurusan\Visual Studio Net\project\Kasir_Restaurant_VB\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
 D:\Materi Perjurusan\Visual Studio Net\project\Kasir_Restaurant_VB\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
 D:\Materi Perjurusan\Visual Studio Net\project\Kasir_Restaurant_VB\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\bin\Debug\AplikasiInventori.exe.config
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.exe
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.xml
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.pdb
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbprojResolveAssemblyReference.cache
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataMakanan.resources
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmDataPelanggan.resources
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTambahAdmin.resources
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.frmTransaksiJual.resources
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\obj\x86\Debug\WindowsApplication1.Transaksi.resources
+D:\.NET-PROGRAM\APK-NET\Aplikasi-Kasir-Restaurant-VB-2010\Aplikasi\AplikasiInventori\obj\x86\Debug\AplikasiInventori.vbproj.GenerateResource.Cache
